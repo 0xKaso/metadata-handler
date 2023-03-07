@@ -1,0 +1,28 @@
+{
+  "image": "https://raw.githubusercontent.com/cospixel/panda-metadata/main/images/702.png",
+  "name": "Voyager Panda #702",
+  "tokenId": 702,
+  "external_url": "https://voyagerpanda.com",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": 93
+    },
+    {
+      "trait_type": "Magic",
+      "value": 94
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 94
+    },
+    {
+      "trait_type": "Evaluation",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Demon Panda"
+    }
+  ]
+}

@@ -23,7 +23,7 @@ function genMetadata(tokenId, isRarity) {
   }
 
   const metadata = {
-    image: `https://chatfi.s3.ap-southeast-1.amazonaws.com/images/${tokenId}.png`,
+    image: `https://raw.githubusercontent.com/cospixel/panda-metadata/main/images/${tokenId}.png`,
     name: `Voyager Panda #${tokenId}`,
     tokenId: tokenId,
     external_url: "https://voyagerpanda.com",

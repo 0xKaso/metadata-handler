@@ -1,0 +1,28 @@
+{
+  "image": "https://raw.githubusercontent.com/cospixel/panda-metadata/main/images/725.png",
+  "name": "Voyager Panda #725",
+  "tokenId": 725,
+  "external_url": "https://voyagerpanda.com",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": 78
+    },
+    {
+      "trait_type": "Magic",
+      "value": 62
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 37
+    },
+    {
+      "trait_type": "Evaluation",
+      "value": "N"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ordinary Panda"
+    }
+  ]
+}

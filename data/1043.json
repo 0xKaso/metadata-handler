@@ -1,0 +1,28 @@
+{
+  "image": "https://raw.githubusercontent.com/cospixel/panda-metadata/main/images/1043.png",
+  "name": "Voyager Panda #1043",
+  "tokenId": 1043,
+  "external_url": "https://voyagerpanda.com",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": 87
+    },
+    {
+      "trait_type": "Magic",
+      "value": 93
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 90
+    },
+    {
+      "trait_type": "Evaluation",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Demon Panda"
+    }
+  ]
+}
