@@ -1,0 +1,28 @@
+{
+  "image": "https://chatfi.s3.ap-southeast-1.amazonaws.com/images/635.png",
+  "name": "Voyager Panda #635",
+  "tokenId": 635,
+  "external_url": "https://voyagerpanda.com",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": 53
+    },
+    {
+      "trait_type": "Magic",
+      "value": 33
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 88
+    },
+    {
+      "trait_type": "Evaluation",
+      "value": "N"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ordinary Panda"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rename": "^1.0.4"
+  },
+  "dependencies": {
+    "random": "^4.1.0",
+    "rename-overwrite": "^4.0.3"
+  }
+}

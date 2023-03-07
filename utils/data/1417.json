@@ -1,0 +1,28 @@
+{
+  "image": "https://chatfi.s3.ap-southeast-1.amazonaws.com/images/1417.png",
+  "name": "Voyager Panda #1417",
+  "tokenId": 1417,
+  "external_url": "https://voyagerpanda.com",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": 86
+    },
+    {
+      "trait_type": "Magic",
+      "value": 83
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 94
+    },
+    {
+      "trait_type": "Evaluation",
+      "value": "SR"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Demon Panda"
+    }
+  ]
+}
