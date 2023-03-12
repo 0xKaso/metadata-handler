@@ -23,7 +23,7 @@ function genMetadata(tokenId, isRarity) {
   }
 
   const metadata = {
-    image: `https://raw.githubusercontent.com/perosonal-kasoqian/panda-metadata/main/images/${tokenId}.png`,
+    image: `https://raw.githubusercontent.com/Voyagerpanda/panda-metadata/main/images/${tokenId}.png`,
     name: `Voyager Panda #${tokenId}`,
     tokenId: tokenId,
     external_url: "https://voyagerpanda.com",
