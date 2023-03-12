@@ -1,0 +1,28 @@
+{
+  "image": "https://raw.githubusercontent.com/Voyagerpanda/panda-metadata/main/images/1730.png",
+  "name": "Voyager Panda #1730",
+  "tokenId": 1730,
+  "external_url": "https://voyagerpanda.com",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": 83
+    },
+    {
+      "trait_type": "Magic",
+      "value": 84
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 99
+    },
+    {
+      "trait_type": "Evaluation",
+      "value": "SR"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Demon Panda"
+    }
+  ]
+}

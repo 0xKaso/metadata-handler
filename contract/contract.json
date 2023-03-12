@@ -1,0 +1,8 @@
+{
+    "name": "Voyager Panda",
+    "description": "Voyager Panda NFTs are a form of non-fungible panda expression with gameFi.",
+    "image": "https://raw.githubusercontent.com/Voyagerpanda/panda-metadata/main/contract/logo.jpg",
+    "external_link": "https://twitter.com/Panda_Voyager",
+    "seller_fee_basis_points": 1000, 
+    "fee_recipient": "0xEE0e659eFE0EE3526a0aBdfE567Ed40a3c11DC3a"
+  }

@@ -1,0 +1,28 @@
+{
+  "image": "https://raw.githubusercontent.com/Voyagerpanda/panda-metadata/main/images/285.png",
+  "name": "Voyager Panda #285",
+  "tokenId": 285,
+  "external_url": "https://voyagerpanda.com",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": 47
+    },
+    {
+      "trait_type": "Magic",
+      "value": 68
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 86
+    },
+    {
+      "trait_type": "Evaluation",
+      "value": "R"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ordinary Panda"
+    }
+  ]
+}

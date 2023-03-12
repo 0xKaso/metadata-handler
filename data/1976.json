@@ -1,0 +1,28 @@
+{
+  "image": "https://raw.githubusercontent.com/Voyagerpanda/panda-metadata/main/images/1976.png",
+  "name": "Voyager Panda #1976",
+  "tokenId": 1976,
+  "external_url": "https://voyagerpanda.com",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": 41
+    },
+    {
+      "trait_type": "Magic",
+      "value": 62
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 95
+    },
+    {
+      "trait_type": "Evaluation",
+      "value": "R"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Ordinary Panda"
+    }
+  ]
+}
